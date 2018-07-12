@@ -6,6 +6,7 @@
 }
 #background{
 	background: #2f3a40;
+	padding: 0px;
 }
 .logo{
 	width: 100%;
@@ -31,3 +32,165 @@
     font-weight: bold;
     font-family: cursive;
     }
+    .title-contact {
+    width: 100%;
+    height: 63px;
+}
+.title-contact span{
+display: block;
+width: 100%;
+height: 37px;
+line-height: 37px;
+background: #f97976;
+font-size: 18px;
+color: #fff;
+padding-left: 35px;
+font-weight: bold;
+}
+.down{
+width: 20px;
+height: 20px;
+margin-left: 31px;
+border-left: 11px solid #71555500;
+border-right: 11px solid transparent;
+border-top: 11px solid #f97976;
+}
+.mota{
+	width: 100%;
+	height: 214px;
+	padding: 12px 37px;
+}
+#icon {
+    font-size: 25px;
+    color: #fff;
+    padding-right: 16px;
+}
+.mota span{
+	font-size: 16px;
+font-family: unset;
+font-style: normal;
+color: #fff;
+display: block;
+height: 43px;
+line-height: 43px;
+}
+.phone-language .title-contact {
+    width: 100%;
+    height: 63px;
+}
+.phone-language .title-contact span{
+display: block;
+width: 100%;
+height: 37px;
+line-height: 37px;
+background: #40787d;
+font-size: 18px;
+color: #fff;
+padding-left: 35px;
+font-weight: bold;
+}
+.phone-language .title-contact .down{
+width: 20px;
+height: 20px;
+margin-left: 31px;
+border-left: 11px solid #71555500;
+border-right: 11px solid transparent;
+border-top: 11px solid #40787d;
+}
+.trinhdo {
+    width: 100%;
+    height: 193px;
+}
+.trinhdo span {
+    display: block;
+    width: 80%;
+    height: 43px;
+    line-height: 43px;
+    margin: auto;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: capitalize;
+}
+.lv1 {
+    width: 80%;
+    height: 7px;
+    margin-left: 29px;
+    border-radius: 29px;
+    background: #fff;
+}
+.lv2 {
+    width: 45%;
+	height: 7px;
+	margin-left: 29px;
+	border-radius: 29px;
+	background: #fff;
+}
+.lv3 {
+    width: 32%;
+    height: 7px;
+    margin-left: 29px;
+    border-radius: 29px;
+    background: #fff;
+}
+.phone-skin .title-contact {
+    width: 100%;
+    height: 63px;
+}
+.phone-skin .title-contact span{
+display: block;
+width: 100%;
+height: 37px;
+line-height: 37px;
+background: #689241;
+font-size: 18px;
+color: #fff;
+padding-left: 35px;
+font-weight: bold;
+}
+.phone-skin .title-contact .down{
+width: 20px;
+height: 20px;
+margin-left: 31px;
+border-left: 11px solid #71555500;
+border-right: 11px solid transparent;
+border-top: 11px solid #689241;
+}
+.gioithieu {
+    width: 100%;
+    height: 279px;
+    line-height: 37px;
+    text-align: center;
+}
+.gioithieu span{
+	font-size: 23px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Roboto;
+}
+.gioithieu p{
+    text-align: justify;
+	letter-spacing: 1px;
+	line-height: 2;
+	font-size: 13px;
+	font-style: italic;
+}
+.hochanh {
+    width: 100%;
+    height: 198px;
+    line-height: 37px;
+    text-align: center;
+}
+.hochanh span{
+	font-size: 23px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Roboto;
+}
+.hochanh p{
+    text-align: justify;
+	letter-spacing: 1px;
+	line-height: 2;
+	font-size: 13px;
+	font-style: italic;
+}
