@@ -1,0 +1,33 @@
+.container{
+	max-width: 856px;
+	height: auto;
+	padding: 0px;
+	box-shadow: 4px 11px 27px -7px #888888;
+}
+#background{
+	background: #2f3a40;
+}
+.logo{
+	width: 100%;
+	height: auto;
+	text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.logo img{
+	width: 164px;
+	border-radius: 100px;
+}
+.title {
+    width: 100%;
+    height: auto;
+    padding: 41px;
+    }
+    .title h2{
+    	font-size: 26px;
+    }
+    .title h3 {
+    font-size: 38px;
+    font-weight: bold;
+    font-family: cursive;
+    }
