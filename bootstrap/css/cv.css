@@ -23,7 +23,7 @@
     width: 100%;
     height: auto;
     padding: 41px;
-    }
+}
     .title h2{
     	font-size: 26px;
     }
@@ -193,4 +193,34 @@ border-top: 11px solid #689241;
 	line-height: 2;
 	font-size: 13px;
 	font-style: italic;
+}
+.duan {
+    width: 100%;
+    height: 198px;
+    line-height: 37px;
+    text-align: center;
+}
+.duan span{
+	font-size: 23px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Roboto;
+}
+.duan p{
+    text-align: justify;
+	letter-spacing: 1px;
+	line-height: 2;
+	font-size: 13px;
+	font-style: italic;
+}
+@media (max-width:576px){
+	*{}
+
+.gioithieu {
+    height: 315px;
+}
+
+.hochanh {
+    height: 187px;
+}
 }
